@@ -40,7 +40,7 @@ body {
 .navContainer {
   float:right;
   width: 150px;
-  margin-left: 40px;
+  margin-left: 40px auto 0 auto;
   background-color: #fff;
 }
 
