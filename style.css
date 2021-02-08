@@ -39,13 +39,13 @@ img {
 h1 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 64px;
-  color: #8b1b00;
+  color: #494949;
 }
  
 p, li {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 22px;
-  color: #51473b;
+  color: #494949;
 }
 
 
