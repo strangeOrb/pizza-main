@@ -37,6 +37,12 @@ body {
   margin-top: 20px;
 }
 
+.navContainer {
+  float:right;
+  width: 150px;
+  margin-left: 200px;
+}
+
 img {
   width: 100%;
   object-fit: contain;
