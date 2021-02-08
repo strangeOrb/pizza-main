@@ -19,7 +19,7 @@ body {
   padding: 20px;
   background-color: #fff;
 }
- 
+.pageContainer, .navContainer {float:left; display:inline; width: 49%;}
 .imageContainer {
   float: left;
   width: 620px;
