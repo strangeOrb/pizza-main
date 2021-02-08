@@ -24,6 +24,11 @@ body {
   float: left;
   width: 620px;
 }
+.imageContainer2 {
+  width: 620px;
+  float: left;
+  object-fit: contain;
+}
  
 .textContainer {
   float: left;
