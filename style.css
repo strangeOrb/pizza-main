@@ -10,7 +10,7 @@
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
 body {
-  background-color: #5f5345;
+  background-color: #3d3d3d;
 }
  
 .pageContainer {
@@ -37,7 +37,7 @@ img {
 }
  
 h1 {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 64px;
   color: #8b1b00;
 }
